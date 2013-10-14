@@ -1,0 +1,14 @@
+<facebook>
+    <crawler>
+        <crawl start="0"/>
+        <crawl end="100"/>
+    </crawler>
+    <db>
+        <mongo ip="127.0.0.1"/>
+        <mongo port="27017"/>
+        <mongo log="0"/>
+    </db>
+    <graph_search>
+        <fb token="Token Goes Here"/>
+    </graph_search>
+</facebook>
